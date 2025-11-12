@@ -1,0 +1,122 @@
+[
+  {
+    "id": "docs",
+    "title": "DOCUMENTATION: How to Use the applyUrl Field",
+    "company": "Focus Links Guide",
+    "logo": "https://i.ibb.co/pwnL1Xy/IMG-20251025-WA0014.jpg",
+    "location": "Global",
+    "type": "Info",
+    "posted": "2024-11-13T12:00:00Z",
+    "postedBy": "Focus Links Dev",
+    "applyUrl": "#",
+    "description": "### How to Configure Application Links\n\nThe `applyUrl` field is flexible and can handle three types of links:\n\n**1. Standard Web Link:**\nFor application portals or external job sites. Just use the full URL.\n*Example:* `\"https://example.com/job/apply/123\"`\n\n**2. Email Application (mailto):**\nTo open the user's email client with a pre-filled message. Use the `mailto:` format. You can add a subject and body to the email.\n*Example:* `\"mailto:hr@example.com?subject=Application%20for%20Optometrist%20Position&body=Please%20find%20my%20resume%20attached.\"`\n*Note:* Use `%20` for spaces and `%0A` for new lines in the body.\n\n**3. WhatsApp Message (wa.me):**\nTo open a WhatsApp chat with a pre-filled message. Use the `https://wa.me/` link followed by the phone number (with country code) and the message text.\n*Example:* `\"https://wa.me/919876543210?text=I'm%20interested%20in%20the%20Optometrist%20position.\"`\n*Note:* Use `%20` for spaces in the message."
+  },
+  {
+    "id": "1",
+    "title": "Senior Clinical Optometrist",
+    "company": "Global Eye Care",
+    "logo": "https://picsum.photos/seed/gec-logo/100/100",
+    "location": "London, UK",
+    "type": "Full-Time",
+    "posted": "2024-11-12T09:00:00Z",
+    "postedBy": "John Doe",
+    "applyUrl": "https://example.com/apply/senior-optom",
+    "description": "### Job Description\nJoin our flagship clinic in central London. We are seeking an experienced optometrist to lead our clinical team, specializing in ocular disease management and advanced contact lens fitting. Mentorship opportunities available."
+  },
+  {
+    "id": "2",
+    "title": "Pediatric Optometrist",
+    "company": "Bright Eyes Clinic",
+    "logo": "https://picsum.photos/seed/be-logo/100/100",
+    "location": "San Francisco, CA",
+    "type": "Part-Time",
+    "posted": "2024-11-11T15:30:00Z",
+    "postedBy": "Jane Smith",
+    "applyUrl": "mailto:hr.brighteyes@email.com?subject=Application%20for%20Pediatric%20Optometrist&body=Hello,%0A%0AI%20am%20writing%20to%20apply%20for%20the%20Pediatric%20Optometrist%20position%20I%20saw%20on%20Focus%20Links.%0A%0APlease%20find%20my%20resume%20attached.%0A%0AThank%20you,%0A[Your Name]",
+    "description": "### Job Description\nWe are looking for a passionate pediatric optometrist to join our vibrant team. The ideal candidate has experience with children of all ages and a strong background in binocular vision and myopia control. Flexible part-time hours."
+  },
+  {
+    "id": "3",
+    "title": "Optical Assistant",
+    "company": "Speedy Specs",
+    "logo": "https://picsum.photos/seed/ss-logo/100/100",
+    "location": "Mumbai, India",
+    "type": "Full-Time",
+    "posted": "2024-11-10T11:00:00Z",
+    "postedBy": "Ravi Kumar",
+    "applyUrl": "https://wa.me/919988776655?text=Hi!%20I'm%20interested%20in%20the%20Optical%20Assistant%20role%20advertised%20on%20Focus%20Links.",
+    "description": "### Job Description\nSeeking a customer-focused Optical Assistant to help with frame selection, dispensing, and pre-testing. Training will be provided, but prior retail or optical experience is a plus. Great opportunity for growth. Apply via WhatsApp."
+  },
+  {
+    "id": "4",
+    "title": "Ophthalmic Technician",
+    "company": "Advanced Eye Hospital",
+    "logo": "https://picsum.photos/seed/aeh-logo/100/100",
+    "location": "Dubai, UAE",
+    "type": "Full-Time",
+    "posted": "2024-11-09T18:00:00Z",
+    "postedBy": "Fatima Al-Sayed",
+    "applyUrl": "https://example.com/apply/op-tech-dubai",
+    "description": "### Job Description\nOur state-of-the-art hospital requires a skilled Ophthalmic Technician to perform diagnostic testing, including OCT, visual fields, and topography. Experience with pre- and post-operative surgical care is essential."
+  },
+  {
+    "id": "5",
+    "title": "Research Optometrist",
+    "company": "Vision Science Institute",
+    "logo": "https://picsum.photos/seed/vsi-logo/100/100",
+    "location": "Boston, MA",
+    "type": "Contract",
+    "posted": "2024-11-08T14:00:00Z",
+    "postedBy": "Dr. Susan Richards",
+    "applyUrl": "mailto:research.jobs@visionscience.edu?subject=Inquiry%3A%20Research%20Optometrist%20Position",
+    "description": "### Job Description\nJoin a 12-month research project focused on novel treatments for dry eye disease. This role involves patient recruitment, conducting clinical trials, and data analysis. A Master's degree or prior research experience is required."
+  },
+  {
+    "id": "6",
+    "title": "Dispensing Optician - Luxury Retail",
+    "company": "Elegance Eyewear",
+    "logo": "https://picsum.photos/seed/ee-logo/100/100",
+    "location": "Paris, France",
+    "type": "Full-Time",
+    "posted": "2024-11-07T08:00:00Z",
+    "postedBy": "Pierre Dubois",
+    "applyUrl": "https://example.com/careers/france/dispensing-optician",
+    "description": "### Job Description\nWe seek an experienced Dispensing Optician for our flagship luxury boutique. The role requires exceptional customer service skills and expertise in high-end, bespoke eyewear. Fluency in French and English is required."
+  },
+  {
+    "id": "7",
+    "title": "Tele-Optometrist (Remote)",
+    "company": "Digital Vision Direct",
+    "logo": "https://picsum.photos/seed/dvd-logo/100/100",
+    "location": "Remote (Canada)",
+    "type": "Part-Time",
+    "posted": "2024-11-06T20:00:00Z",
+    "postedBy": "Remote HR",
+    "applyUrl": "https://example.com/apply/tele-optom-ca",
+    "description": "### Job Description\nProvide remote eye health consultations and prescription renewals via our secure telemedicine platform. Must be a licensed optometrist in any Canadian province. Flexible hours, work from home."
+  },
+  {
+    "id": "8",
+    "title": "Optometry Clinic Manager",
+    "company": "Sydney Family Eyecare",
+    "logo": "https://picsum.photos/seed/sfe-logo/100/100",
+    "location": "Sydney, Australia",
+    "type": "Full-Time",
+    "posted": "2024-11-05T12:00:00Z",
+    "postedBy": "Admin",
+    "applyUrl": "mailto:careers@sydneyfamilyeyecare.au?subject=Application%20for%20Clinic%20Manager",
+    "description": "### Job Description\nWe are looking for an experienced manager to oversee daily operations, staff management, and business development for our busy suburban practice. An optometry background is preferred but not required."
+  },
+  {
+    "id": "9",
+    "title": "Contact Lens Specialist",
+    "company": "LensFit Experts",
+    "logo": "https.png",
+    "location": "Singapore",
+    "type": "Full-Time",
+    "posted": "2024-11-04T10:00:00Z",
+    "postedBy": "HR Department",
+    "applyUrl": "https://example.com/sg/jobs/contact-lens-specialist",
+    "description": "### Job Description\nJoin our team of contact lens experts. This role focuses on fitting specialty lenses, including scleral, RGP, and orthokeratology lenses. You will work with complex cases and collaborate with referring ophthalmologists."
+  }
+]
