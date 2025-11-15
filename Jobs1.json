@@ -1,6 +1,4 @@
-Based on your requirement, here is a JSON array containing the first 50 job listings available in the sources, formatted according to your provided template. Please note that exact ISO 8601 formatted "posted" dates and a separate "postedBy" name were not available in the source data and have been omitted or derived using available fields.
 
-```json
 [
   {
     "id": "1",
