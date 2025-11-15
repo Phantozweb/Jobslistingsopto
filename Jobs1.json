@@ -1,123 +1,106 @@
+Based on your requirement, here is a JSON array containing the first 50 job listings available in the sources, formatted according to your provided template. Please note that exact ISO 8601 formatted "posted" dates and a separate "postedBy" name were not available in the source data and have been omitted or derived using available fields.
+
+```json
 [
   {
     "id": "1",
-    "title": "Wanted Optometrist Assistant Lecturer",
-    "company": "Vasthraa Institute of Science & Management",
-    "logo": "https://picsum.photos/seed/vasthraa-logo/100/100",
-    "location": "Sivakasi",
-    "type": "Full-Time, Permanent, Fresher",
-    "posted": "2025-11-12T12:00:00Z",
-    "postedBy": "Admin",
-    "applyUrl": "https://in.indeed.com/viewjob?jk=b201b08db122a75f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "description": "## :scroll: Job Description\n> Applications are invited for the posts of Assistant Lecturer in the following disciplines from candidates possessing a First Class Master's Degree in the relevant subject Knowledge Fresher's also apply\n\n### :briefcase: Job Details\n| Job Type | Pay | Work Location |\n| :--- | :--- | :--- |\n| Full-time, Permanent, Fresher | ₹15,000.00 - ₹30,000.00 per month | In person |\n\n### :moneybag: Salary Information\n| Minimum Salary | Maximum Salary | Median Salary |\n| :--- | :--- | :--- |\n| ₹15K | ₹30K | ₹23K/mo |"
+    "title": "Optometrist - Bangalore",
+    "company": "Reliance Retail",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM_iN30Rgv3w/company-logo_100_100/company-logo_100_100/0/1631307312115?e=2147483647&v=beta&t=0aVIacsATufIRcJR18WUij7uuBU9_zV-BYTJclL5lak",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-bangalore-at-reliance-retail-4227259707?position=1&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=yyOCWo7Df6tIEuaKQVoUbQ%3D%3D",
+    "description": "## Job Description\n\n**Role:** Optometrist\n\n**Job Description:** Dispenses accurate prescriptions and fits spectacles, contact lenses and other optical aids. Performs refraction and diagnosis to meet customers needs, providing advice on lens types, frames, styling, contact lenses, care, use of low vision aids, adjustments, and repairs to spectacles. Manages inventory of lenses and optical products, giving inputs on orders. Provides regular qualitative and quantitative reports to management on sales and stock, and customer feedback to facilitate decision making. Ensures quality of eye measurements and regularly audits fitments and dispensing techniques of Opticians; acts as the point of escalation for Opticians for higher consultation.\n\n**Education Required:** D. Optom / B Optom / M Optom\n\n**Experience Required:** 0-10 Yrs\n\n**Required Skills & Competencies:** Welcome the customer appropriately, talk about Vision Express products/services, tell the customer about the Vx- 6 step Eye test (free of cost), advise customer on what suits and benefits them, ensure timely delivery and prompt after-sales service, ensure back-end processes happen as per schedule, and escalate unsorted issues/disputes to the Store Manager (SM) if required."
   },
   {
     "id": "2",
-    "title": "Senior Optometrist",
-    "company": "Vasan Eye Care Hospital",
-    "logo": "https://media.glassdoor.com/sql/523220/vasan-eye-care-squarelogo-1429607299898.png",
-    "location": "Dharmapuri",
-    "type": "Full-time, Permanent",
-    "posted": "2025-11-12T12:00:00Z",
-    "postedBy": "Admin",
-    "applyUrl": "https://www.glassdoor.co.in/Overview/Working-at-Vasan-Eye-Care-EI_IE523220.11,25.htm",
-    "description": "## :scroll: Job Brief\n> We are looking for an Optometrist to perform eye tests and provide excellent eye care to our patients.\n\n### :clipboard: Responsibilities\n- :check: Perform comprehensive eye and vision tests\n- :check: Diagnose defects of the eye, such as myopia, astigmatism and glaucoma\n- :check: Provide personalized temporary and permanent solutions to sight issues based on each patient’s specific case and medical history\n- :check: Prescribe medications, eyeglasses and contact lenses\n- :check: Advise patients on proper eye care techniques\n- :check: Keep updated and accurate medical records for all patients\n- :check: Book next appointments in cases where re-examination is required\n- :check: Train patients on how to use and maintain their contact lenses\n- :check: Refer eye doctors and ophthalmologists when patients need to undergo a surgery or in cases of severe eye injuries\n\n### :white_check_mark: Requirements and skills\n- :check: Work experience as an Optometrist\n- :check: In-depth understanding of eye conditions and vision defects\n- :check: Hands-on experience with eye examination tools, such as ophthalmoscope and tonometer\n- :check: The ability to explain medical terms simply and calmly\n- :check: Attention to detail\n- :check: Degree in Optometry\n- :check: Need to know couselling on Lasik\n- :check: Experience : 2 year[Min]\n\n> **Language known :** Tamil and English\n> **Preferrence:** Dharmapuri Candidates & if Others ready to relocate within 15 days.[ only senior who have more than 2+ years experience in the Optometry]\n> **No accommodation**\n\n### :moneybag: Salary and Benefits\n| Job Type | Pay | Benefits |\n| :--- | :--- | :--- |\n| Full-time, Permanent | ₹20,000.00 - ₹22,000.00 per month | Provident Fund |\n\n### :truck: Commute/Relocation\n> Dharmapuri, Tamil Nadu: Reliably commute or planning to relocate before starting work (Required)\n\n### :briefcase: Experience\n> total work: 2 years (Required)"
+    "title": "Optometrist - Mumbai and Ahmedabad",
+    "company": "Reliance Retail",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM_iN30Rgv3w/company-logo_100_100/company-logo_100_100/0/1631307312115?e=2147483647&v=beta&t=0aVIacsATufIRcJR18WUij7uuBU9_zV-BYTJclL5lak",
+    "location": "Mumbai Metropolitan Region",
+    "type": null,
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-mumbai-and-ahmedabad-at-reliance-retail-4227262379?position=2&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=KITcv2pS2dpIZvUghawV7Q%3D%3D",
+    "description": null
   },
   {
     "id": "3",
-    "title": "Senior Optometrist Jobs in Lotus Eye Hospital and Institute - Tiruppur, Tamil Nadu",
-    "company": "Lotus Eye Hospital and Institute",
-    "logo": "https://silverlinktechnologies.com/wp-content/uploads/2021/07/lotus-eye-hospital.png",
-    "location": "Tiruppur - Palladam Rd, opp. Sulochana Mills, TML Colony, Thennampalayam, Tiruppur, Tamil Nadu 641604, India",
-    "type": "Full-Time",
-    "posted": "2025-11-12T12:00:00Z",
-    "postedBy": "Admin",
-    "applyUrl": "https://www.swaasa.com/in/en/job/P-129270/Senior-Optometrist-Jobs-in-Lotus-Eye-Hospital-and-Institute-Tiruppur-Tamil-Nadu?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "description": "## :scroll: Job Description\n> Lotus Eye Hospital and Institute is seeking a skilled and experienced Senior Optometrist to join our healthcare team in Tiruppur, Tamil Nadu. As a Senior Optometrist, you will play a vital role in delivering quality eye care services, performing vision assessments, prescribing corrective lenses, and educating patients. At Lotus Eye Hospital and Institute, we are committed to clinical excellence and compassionate patient care.\n\n### :clipboard: Responsibilities\n- :check: Conduct comprehensive eye examinations and vision testing at Lotus Eye Hospital and Institute.\n- :check: Prescribe eyeglasses and contact lenses based on accurate diagnoses.\n- :check: Educate patients on eye health, visual hygiene, and treatment plans.\n- :check: Provide pre-operative and post-operative care for surgical patients.\n- :check: Maintain and manage accurate patient records and billing information.\n- :check: Assist in mentoring junior optometrists at Lotus Eye Hospital and Institute.\n- :check: Collaborate with ophthalmologists and other medical staff for holistic eye care.\n\n### :white_check_mark: Requirements\n- :check: Bachelor’s degree in Optometry or equivalent qualification.\n- :check: Minimum of 5 years of professional experience in optometry.\n- :check: Proficient in vision testing, lens fitting, and patient counseling.\n- :check: Excellent communication and interpersonal skills.\n- :check: Strong decision-making ability and attention to detail.\n- :check: Ability to work independently and within a team environment.\n- :check: Familiarity with eye care equipment and EMR systems.\n\n### :gift: Benefits\n- :check: Be a part of a reputed institution like Lotus Eye Hospital and Institute.\n- :check: Competitive salary and performance-based incentives.\n- :check: Opportunities for continuous learning and professional growth.\n- :check: Collaborative and patient-centric work environment at Lotus Eye Hospital and Institute.\n- :check: Access to modern diagnostic tools and technologies."
+    "title": "Optometrist - Navi Mumbai (Vashi)",
+    "company": "Reliance Retail",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM_iN30Rgv3w/company-logo_100_100/company-logo_100_100/0/1631307312115?e=2147483647&v=beta&t=0aVIacsATufIRcJR18WUij7uuBU9_zV-BYTJclL5lak",
+    "location": "Navi Mumbai, Maharashtra, India",
+    "type": null,
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-navi-mumbai-vashi-at-reliance-retail-4292492463?position=3&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=UW6JA3W1WfJiNlsdVGIBRw%3D%3D",
+    "description": null
   },
   {
     "id": "4",
-    "title": "Optometrist",
-    "company": "Titan Company Limited",
-    "logo": "https://media.monsterindia.com/logos/xOP_titacomplimiinx/jdlogo.gif",
-    "location": "Madurai, India",
-    "type": "Full-time, On-site",
-    "posted": "2025-11-14T00:05:00Z",
-    "postedBy": "Admin",
-    "applyUrl": "https://www.foundit.in/seeker/single-page-registration?from=Adsolave_Digital_New&spl=IN_paid_job_boards_acq_affiliates_Adsolave_Digital_New_Feed&gd=1&jobid=130927107&action=apply&utm_campaign=IN_paid_job_boards_acq_affiliates_Adsolave_Digital_New_Feed&utm_medium=affiliates&utm_source=Adsolave_Digital_New&utm_source=jooble&utm_medium=cpc&utm_campaign=allvacancies",
-    "description": "## :scroll: Job Description\n> This is a full-time on-site role for an Optometrist located in Madurai and ROTN. The Optometrist will be responsible for conducting thorough eye examinations, diagnosing vision problems and prescribing corrective spectacles and contact lenses and providing pre and post QC for lenses and contact lenses.\n\n### :white_check_mark: Qualifications\n- :check: Degree or Diploma from an accredited institution\n- :check: Strong diagnostic skills and the ability to interpret various eye tests\n- :check: Proficiency in prescribing corrective lenses and other treatments\n- :check: Excellent communication and interpersonal skills to interact with patients and colleagues\n- :check: Attention to detail and strong organizational skills\n- :check: Dispensing of contact lenses\n\n### :information_source: More Info\n| Industry | Function | Job Type |\n| :--- | :--- | :--- |\n| Other | Healthcare | Permanent Job |\n\n### :gear: Skills Required\n- :check: Strong diagnostic skills\n- :check: Dispensing of contact lenses\n- :check: Proficiency in prescribing corrective lenses\n- :check: Degree or Diploma from an accredited institution\n- :check: Ability to interpret various eye tests\n\n### :office: About Company\n> Titan Company Limited"
+    "title": "Optometrist - Bangalore (Whitefield, Banashankari)",
+    "company": "Reliance Retail",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM_iN30Rgv3w/company-logo_100_100/company-logo_100_100/0/1631307312115?e=2147483647&v=beta&t=0aVIacsATufIRcJR18WUij7uuBU9_zV-BYTJclL5lak",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-bangalore-whitefield-banashankari-at-reliance-retail-4291475503?position=4&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=wnzrPY25WfgEt7%2Bg9qR2Fg%3D%3D",
+    "description": "## Job Description\n\n**Role:** Optometrist\n\n**Job Description:** Dispenses accurate prescriptions and fits spectacles, contact lenses and other optical aids. Performs refraction and diagnosis to meet customers needs, providing advice on lens types, frames, styling, contact lenses, care, use of low vision aids, adjustments, and repairs to spectacles. Manages inventory of lenses and optical products, giving inputs on orders. Provides regular qualitative and quantitative reports to management on sales and stock, and customer feedback. Ensures quality of eye measurements and regularly audits fitments and dispensing techniques of Opticians; acts as the point of escalation for Opticians for higher consultation.\n\n**Education Required:** D. Optom / B Optom / M Optom\n\n**Experience Required:** 0-6 Yrs\n\n**Required Skills & Competencies:** Welcome the customer appropriately, talk about Vision Express products/services, tell the customer about the Vx- 6 step Eye test (free of cost), advise customer on what suits and benefits them, ensure timely delivery and prompt after-sales service, ensure back-end processes happen as per schedule, and escalate unsorted issues/disputes to the Store Manager (SM) if required."
   },
   {
     "id": "5",
-    "title": "Optometrist",
-    "company": "Ayaan Eye Hospital",
-    "logo": "https://ayaaneyehospital.com/appassets/mediaassets/7b0d4c0e0fc84e88a234ed100b0d5b80/image/logo-1752230685124.png",
-    "location": "Vijayawada, Andhra Pradesh",
-    "type": "Full-time, On-site",
-    "posted": "2025-11-14T00:20:00Z",
-    "postedBy": "Admin",
-    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-at-ayaan-eye-hospital-4320713914?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "description": "## :scroll: Job Description\n> This is a full-time, on-site role for an Optometrist based in Vijayawada. The Optometrist will be responsible for performing comprehensive eye examinations, diagnosing and treating visual issues, prescribing corrective lenses, and providing pre-operative and post-operative care for patients undergoing surgeries. The role also involves educating patients about eye health and collaborating with other healthcare professionals to ensure optimal patient care.\n\n### :white_check_mark: Qualifications\n- :check: Experience in conducting thorough eye examinations and prescribing corrective eyewear\n- :check: Proficiency in diagnosing and managing eye diseases and conditions\n- :check: Strong interpersonal skills for patient education and communication\n- :check: Experience with pre-operative and post-operative eye care procedures\n- :check: Attention to detail and a commitment to maintaining high standards in patient care\n- :check: Ability to work effectively as part of a multidisciplinary team\n- :check: Doctorate of Optometry (OD) or equivalent qualifications\n- :check: Clinical experience in optometry practice is preferred"
+    "title": "Optometrist- Mumbai(Bandra, Andheri, Dadar, Vasai)",
+    "company": "Reliance Retail",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM_iN30Rgv3w/company-logo_100_100/company-logo_100_100/0/1631307312115?e=2147483647&v=beta&t=0aVIacsATufIRcJR18WUij7uuBU9_zV-BYTJclL5lak",
+    "location": "Mumbai Metropolitan Region",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-mumbai-bandra-andheri-dadar-vasai-at-reliance-retail-4252172060?position=5&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=2tm6JwF5CtOvUpZrQKcsgg%3D%3D",
+    "description": "## Job Description\n\n**Role:** Optometrist\n\n**Job Description:** Dispenses accurate prescriptions and fits spectacles, contact lenses and other optical aids. Performs refraction and diagnosis to meet customers needs, providing advice on lens types, frames, styling, contact lenses, care, use of low vision aids, adjustments, and repairs to spectacles. Manages inventory of lenses and optical products, giving inputs on orders. Provides regular qualitative and quantitative reports to management on sales and stock, and customer feedback. Ensures quality of eye measurements and regularly audits fitments and dispensing techniques of Opticians; acts as the point of escalation for Opticians for higher consultation.\n\n**Education Required:** D. Optom / B Optom\n\n**Experience Required:** 0-10 Yrs\n\n**Required Skills & Competencies:** Welcome the customer appropriately, talk about Vision Express products/services, tell the customer about the Vx- 6 step Eye test (free of cost), advise customer on what suits and benefits them, ensure timely delivery and prompt after-sales service, ensure back-end processes happen as per schedule, and escalate unsorted issues/disputes to the Store Manager (SM) if required."
   },
   {
     "id": "6",
     "title": "Optometrist",
-    "company": "Sir H.N. Reliance Foundation Hospital & Research Centre",
-    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHFb2GPOX9RJw/company-logo_100_100/company-logo_100_100/0/1643111020554?e=2147483647&v=beta&t=HqCtSpqK8G---HSv5oD4PagiJ_9sQKNe_NniIsz-92E",
-    "location": "Mumbai Metropolitan Region",
-    "type": "Full-time, Mid-Senior level",
-    "posted": "2025-11-13T12:00:00Z",
-    "postedBy": "Admin",
-    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-at-sir-h-n-reliance-foundation-hospital-research-centre-4261265375?position=11&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=3iaR8O4V0U23lLYY%2FsRKNg%3D%3D",
-    "description": "## :scroll: Job Description\n\n> Sir H. N. Reliance Foundation Hospital and Research Centre is a state-of-the-art 345 bed multi-specialty tertiary care hospital, situated in South Mumbai.\n\n### :briefcase: Job Profile\n- :check: Responsible for upkeep & calibration of all department equipment. Liaise with Biomedical Engineer to ensure smooth functioning of equipment.\n- :check: Report any damage to instruments/equipment to the concerned Biomedical and follow up for replacement.\n- :check: Assist / perform procedures or tests such as per the qualifications, clinical credentialing and experience.\n- :check: Conduct detail optometry workup for all OPD, EHC & IPD patients.\n- :check: Conduct OPD Procedures like Perimetry, OCT, Topography, IOL Master, Fundus Camera, FFA, A-Scan, B-Scan, Pachymetry, Specular microscopy.\n- :check: Follow standard operating procedures including obtaining consent form, counselling the patient and safety checklist during all procedures/tests.\n- :check: Support in transferring and positioning of the patient in OT on need basis.\n\n### :pencil: Requirements\n- :check: **Skills:** Clinical assessment, Prescription writing, Ocular health evaluation, Contact lens fitting, Visual acuity testing, Patient communication, Eye examination, Optical dispensing.\n- :check: **Candidate Requirement:** Graduation or PG in Optometry, Basic computer and typing skills, Excellent verbal and written communication skills."
+    "company": "Reliance Retail",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM_iN30Rgv3w/company-logo_100_100/company-logo_100_100/0/1631307312115?e=2147483647&v=beta&t=0aVIacsATufIRcJR18WUij7uuBU9_zV-BYTJclL5lak",
+    "location": "Nagpur, Maharashtra, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-at-reliance-retail-4279485292?position=6&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=UxGOx45vDLgiV5%2BnkxxvEQ%3D%3D",
+    "description": "## Job Description\n\n**Job Title:** Optometrist\n\n**Reports To:** Store Manager\n\n**Summary:** This role blends clinical expertise with retail excellence at Vision Express, focusing on customer experience, sales, operations, and customer engagement.\n\n**Roles And Responsibilities:**\n*   **Precision in Prescription & Dispensing:** Ensure accurate prescriptions, fit spectacles, contact lenses, and optical aids for clarity and comfort. Guide customers in selecting lenses and frames.\n*   **Beyond the Clinic:** Conduct comprehensive eye tests and diagnoses, offer expert advice on lens types, frame styles, and contact lens care, and help customers understand how eyewear enhances daily life.\n*   **Managing Optical Inventory & Product Expertise:** Manage inventory, analyze customer trends, provide insights for product offerings, and stay updated on latest lens technologies/eyewear trends.\n*   **Driving Business with Data & Insights:** Share insights on customer preferences, provide reports on sales/stock/optical trends, and partner with the team to drive business growth.\n*   **Ensuring Quality & Expert Consultation:** Maintain high standards of precision in eye measurements and dispensing techniques, audit optical quality standards, and act as the expert for complex cases.\n\n**Qualifications:** Graduation or Diploma in Optometry.\n\n**Experience:** 0 to 7 years in retail and optical industry.\n\n**Skills & Competencies:** Optometry, Refraction, Contact lens knowledge.\n\n**Top 5 KPIs:** Footfall to Eye Test Conversion, Eye Test to Sales Conversion, Individual Sales Achievement, Customer Satisfaction & Retention, Zero error eye testing.\n\n**Benefits:** Free Spectacle from day one, Group Hospitalization/Term Life/Personal Accidental Insurance, Referral incentive, Free unlimited consultation for employees and family members by in-house doctors, Monthly Recognition Program, REFERS toll-free for medical/emergencies."
   },
   {
     "id": "7",
-    "title": "Optometrist - Delhi - New Delhi Hub",
-    "company": "Lenskart.com",
-    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
-    "location": "Narnaul, Haryana, India",
-    "type": "Full-time, Entry level",
-    "posted": "2025-11-13T12:00:00Z",
-    "postedBy": "Admin",
-    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-delhi-new-delhi-hub-at-lenskart-com-4278061780?position=12&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=dctU%2Bdw1PMHw12cKMW3yrw%3D%3D",
-    "description": "## :scroll: Job Description\n\n> The role of an Optometrist at Lenskart is unique and includes **sales as a critical deliverable** alongside delivering technical expertise through eye-checks, dispensing, and diagnosis.\n\n### :briefcase: Responsibilities\n- :check: **Customer focus:** Driving Net Promoter Score, greeting walk-in customers and promoting the free eye check-up.\n- :check: **In-store tasks:** Involvement in stocktakes, maintaining sales floor standards, understanding the POS system, and resolving customer concerns.\n- :check: **Eye check-up & dispensing:** Following the 12-step Optometry process, clearly sharing the prescription, educating the customer about single vision and progressive lenses, and performing a quality check of the fitted lenses.\n- :check: **Product recommendation:** Presenting an optimal selection of products based on preferences and understanding unstated customer needs to pitch recommended solutions.\n- :check: **Sales & SOP adherence:** Achieving assigned targets for sales, eye-test conversion, and returns; coordinating product pick-up; and controlling the return percentage.\n- :check: **Store upkeep & maintenance:** Maintaining the store as per Lenskart standards, ensuring security of equipment, and cleaning frames and equipment regularly.\n\n### :pencil: Personal attributes & competencies\n- :check: **Minimum qualification:** Diploma in Optometry.\n- :check: Ability to build rapport, understand unstated customer needs, clear communication, active listening, adaptability, proactive task ownership, result-orientation, and ability to multitask."
+    "title": "Optometrist",
+    "company": "Reliance Retail",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM_iN30Rgv3w/company-logo_100_100/company-logo_100_100/0/1631307312115?e=2147483647&v=beta&t=0aVIacsATufIRcJR18WUij7uuBU9_zV-BYTJclL5lak",
+    "location": "Pune, Maharashtra, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-at-reliance-retail-4253505603?position=7&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=gf1L23GljDnQuPuzu4BqdA%3D%3D",
+    "description": "## Job Description\n\n**Dispenses and Fits Accurate Prescriptions:** Dispenses accurate prescriptions and fits spectacles, contact lenses and other optical aids.\n\n**Refraction, diagnosis and Customer Consultation:** Performs refraction and diagnosis to meet customers needs, providing advice to patients on lens types, frames, styling, fitting contact lenses and care, use of low vision aids, adjustments, and repairs to spectacles.\n\n**Inventory Management:** Manages inventory of lenses and optical products, providing inputs on orders.\n\n**Reporting:** Provides regularly, necessary qualitative and quantitative reports to management on sales, stock, and customer feedback.\n\n**Quality Control and Consultant:** Ensures quality of eye measurements and regularly audits fitments and dispensing techniques of Opticians. This role is the point of escalation for Opticians for cases which require higher consultation."
   },
   {
     "id": "8",
-    "title": "Optometrist - Hubli (Karnataka)",
+    "title": "Optometrist",
     "company": "Reliance Retail",
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM_iN30Rgv3w/company-logo_100_100/company-logo_100_100/0/1631307312115?e=2147483647&v=beta&t=0aVIacsATufIRcJR18WUij7uuBU9_zV-BYTJclL5lak",
-    "location": "Dharwad, Karnataka, India",
-    "type": "Full-time, Mid-Senior level",
-    "posted": "2025-11-13T12:00:00Z",
-    "postedBy": "Admin",
-    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-hubli-karnataka-at-reliance-retail-4256539170?position=13&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=E79PO38cyJA2Ewpas9aQ6g%3D%3D",
-    "description": "## :scroll: Job Description\n> Role: Optometrist\n\n### :briefcase: Job Details\n- :check: **Job Description - Dispenses and Fits Accurate Prescriptions**: Dispenses accurate prescriptions and fits spectacles, contact lenses and other optical aids.\n- :check: **Refraction, diagnosis and Customer Consultation**: Perform refraction and diagnosis to meet customers needs. Give advice to patients on: lens types, frames and styling; fit contact lenses and care; use of low vision aids, adjustments and repairs to spectacles.\n- :check: **Inventory Management**: Manage inventory of lenses and range of optical products and give inputs on orders of the same.\n- :check: **Reporting**: Provide regularly, necessary qualitative and quantitative reports to management on sales and stock as well as feedback on customers for their preferences etc. to facilitate decision making.\n- :check: **Quality Control and Consultant**: Ensures quality of eye measurements. Regularly audits fitments and dispensing techniques of Opticians and maintains reports. This role is the point of escalation for Opticians for cases which require higher consultation.\n\n### :pencil: Requirements\n- :check: **Education Required:** D. Optom / B Optom\n- :check: **Experience Required:** 0-10 Yrs\n- :check: **Required Skills & Competencies:** Welcome the customer appropriately, talk about Vision Express, tell customer about Vx- 6 step Eye test which he can undergo for free of cost, advise customer on what suits and benefits them based on their need, ensure that delivery is on time and after sales service is prompt, ensure that back-end processes happen as per schedule, escalate any unsorted issues/disputes to SM if required."
+    "location": "Pune, Maharashtra, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-at-reliance-retail-4235243326?position=8&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=XHMTs%2BtzRH1HQ7VKf6ZrWg%3D%3D",
+    "description": "## Job Description\n\n**Dispenses and Fits Accurate Prescriptions:** Dispenses accurate prescriptions and fits spectacles, contact lenses and other optical aids.\n\n**Refraction, diagnosis and Customer Consultation:** Performs refraction and diagnosis to meet customers needs, providing advice to patients on lens types, frames, styling, fitting contact lenses and care, use of low vision aids, adjustments, and repairs to spectacles.\n\n**Inventory Management:** Manages inventory of lenses and optical products, providing inputs on orders.\n\n**Reporting:** Provides regularly, necessary qualitative and quantitative reports to management on sales, stock, and customer feedback.\n\n**Quality Control and Consultant:** Ensures quality of eye measurements and regularly audits fitments and dispensing techniques of Opticians. This role is the point of escalation for Opticians for cases which require higher consultation."
   },
   {
     "id": "9",
-    "title": "Optician",
-    "company": "Spandana Heart and Super Speciality Hospital",
-    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFKuOmsm1cklg/company-logo_100_100/company-logo_100_100/0/1708685747859?e=2147483647&v=beta&t=WsC32C5_jYKPdNNp8qbGOWzxL3kIbZWbb5iUB9GNLi4",
-    "location": "Bengaluru, Karnataka, India",
-    "type": "Part-time, Associate",
-    "posted": "2025-11-13T12:00:00Z",
-    "postedBy": "Admin",
-    "applyUrl": "https://in.linkedin.com/jobs/view/optician-at-spandana-heart-and-super-speciality-hospital-4289467647?position=14&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=IiQdHt%2B48zdX4YzxdM0tjg%3D%3D",
-    "description": "## :scroll: Job Description\n\n> Spandana Hospital is seeking a **Junior Optician** to join their team in Bangalore, offering both full-time and part-time employment opportunities. This position is ideal for those with 1 to 3 years of experience in opticianry.\n\n### :briefcase: Roles And Responsibilities\n- :check: Assist patients in selecting the right eyewear based on their prescriptions and preferences.\n- :check: Fit and adjust the frames to ensure maximum comfort and adherence to visual prescriptions.\n- :check: Perform lens insertion and adjustments to provide optimal visual clarity.\n- :check: Conduct repairs and maintenance of eyewear.\n- :check: Manage and organize inventory.\n- :check: Educate patients on proper eyewear care and usage techniques.\n- :check: Collaborate with medical staff to provide comprehensive eye care solutions.\n- :check: Maintain records of patient interactions and eyewear sales.\n\n### :pencil: Qualifications And Skills\n- :check: **Mandatory Skills:** Proficiency in eyewear repairs, expertise in lens fitting, and skilled in prescription interpretation.\n- :check: **Other Skills:** Strong inventory management skills, experience in frame adjustment, comprehensive product knowledge, excellent communication skills, and attention to detail."
+    "title": "Optometrist - Chennai",
+    "company": "Reliance Retail",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM_iN30Rgv3w/company-logo_100_100/company-logo_100_100/0/1631307312115?e=2147483647&v=beta&t=0aVIacsATufIRcJR18WUij7uuBU9_zV-BYTJclL5lak",
+    "location": "Chennai, Tamil Nadu, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-chennai-at-reliance-retail-4234988798?position=9&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=DLwGk97XhhUvTe%2F3WCd9Tw%3D%3D",
+    "description": "## Job Description\n\n**Role:** Optometrist\n\n**Job Description:** Dispenses accurate prescriptions and fits spectacles, contact lenses and other optical aids. Performs refraction and diagnosis to meet customers needs, providing advice on lens types, frames, styling, contact lenses, care, use of low vision aids, adjustments, and repairs to spectacles. Manages inventory of lenses and optical products, giving inputs on orders. Provides regular qualitative and quantitative reports to management on sales and stock, and customer feedback. Ensures quality of eye measurements and regularly audits fitments and dispensing techniques of Opticians; acts as the point of escalation for Opticians for higher consultation.\n\n**Education Required:** D. Optom / B Optom / M Optom\n\n**Experience Required:** 0-10 Yrs\n\n**Required Skills & Competencies:** Welcome the customer appropriately, talk about Vision Express products/services, tell the customer about the Vx- 6 step Eye test (free of cost), advise customer on what suits and benefits them, ensure timely delivery and prompt after-sales service, ensure back-end processes happen as per schedule, and escalate unsorted issues/disputes to the Store Manager (SM) if required."
   },
   {
     "id": "10",
-    "title": "Regional Trainer I Optometry Trainer - Mumbai",
-    "company": "Reliance Retail",
-    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM_iN30Rgv3w/company-logo_100_100/company-logo_100_100/0/1631307312115?e=2147483647&v=beta&t=0aVIacsATufIRcJR18WUij7uuBU9_zV-BYTJclL5lak",
+    "title": "Optometrist",
+    "company": "Sir H.N. Reliance Foundation Hospital & Research Centre",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHFb2GPOX9RJw/company-logo_100_100/company-logo_100_100/0/1643111020554?e=2147483647&v=beta&t=HqCtSpqK8G---HSv5oD4PagiJ_9sQKNe_NniIsz-92E",
     "location": "Mumbai Metropolitan Region",
-    "type": "Full-time, Mid-Senior level",
-    "posted": "2025-11-13T12:00:00Z",
-    "postedBy": "Admin",
-    "applyUrl": "https://in.linkedin.com/jobs/view/regional-trainer-i-optometry-trainer-mumbai-at-reliance-retail-4247917431?position=15&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=mzu3QXTZHk8evuz%2Fd%2Fxj5g%3D%3D",
-    "description": "## :scroll: Job Summary\n\n> The Optometry Regional Trainer (Field Trainer) is responsible for delivering hands-on training and development programs to employees in the field, ensuring team members have necessary skills and knowledge.\n\n### :briefcase: Key Responsibilities\n\n**1. Training Delivery:**\n- :check: Deliver engaging in-field training sessions, workshops, and one-on-one coaching.\n- :check: Conduct structured training programs on **refraction, dispensing techniques, and optical technical processes**.\n- :check: Train retail staff on the fundamentals of lenses, frames, and prescription interpretation.\n- :check: Facilitate hands-on workshops, role-plays, and real-time case studies.\n\n**2. Customer Experience Training:**\n- :check: Educate staff on delivering an exceptional customer journey.\n- :check: Conduct training on effective communication, personalized consultations, and handling customer queries.\n- :check: Teach best practices for conducting eye tests with accuracy and efficiency.\n\n**3. Performance Monitoring & Feedback:**\n- :check: Regularly visit retail stores to assess training effectiveness and staff performance.\n- :check: Conduct mock sessions and quality audits.\n- :check: Provide timely feedback and develop assessments to measure knowledge retention.\n\n**4. Content Development & Upgradation:**\n- :check: Design and maintain training modules, presentations, and manuals.\n- :check: Stay updated with the latest industry trends and create engaging materials.\n\n### :pencil: Qualifications & Skills\n- :check: **Qualifications:** Preferably Bachelor's/master's in optometry.\n- :check: **Skills:** Strong presentation and communication skills, ability to adapt training methods, excellent organizational skills, and proficiency in Microsoft Office/e-learning platforms.\n- :check: **Requirement:** Willingness to travel extensively."
+    "type": null,
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-at-sir-h-n-reliance-foundation-hospital-research-centre-4176662343?position=10&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=HgfzS1ILmZN9yKxWBV%2Fb0g%3D%3D",
+    "description": null
   },
   {
     "id": "11",
@@ -125,11 +108,9 @@
     "company": "Sir H.N. Reliance Foundation Hospital & Research Centre",
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHFb2GPOX9RJw/company-logo_100_100/company-logo_100_100/0/1643111020554?e=2147483647&v=beta&t=HqCtSpqK8G---HSv5oD4PagiJ_9sQKNe_NniIsz-92E",
     "location": "Mumbai Metropolitan Region",
-    "type": "Full-time, Mid-Senior level",
-    "posted": "2025-11-13T12:00:00Z",
-    "postedBy": "Admin",
+    "type": "Full-time",
     "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-at-sir-h-n-reliance-foundation-hospital-research-centre-4261265375?position=11&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=3iaR8O4V0U23lLYY%2FsRKNg%3D%3D",
-    "description": "## :scroll: Job Description\n\n> Sir H. N. Reliance Foundation Hospital and Research Centre is a state-of-the-art 345 bed multi-specialty tertiary care hospital, situated in South Mumbai.\n\n### :briefcase: Job Profile\n\n- :check: Responsible for upkeep & calibration of all department equipment. Liaise with Biomedical Engineer to ensure smooth functioning of equipment.\n- :check: Report any damage to instruments/equipment to the concerned Biomedical and follow up for replacement.\n- :check: Assist / perform procedures or tests such as per the qualifications, clinical credentialing and experience.\n- :check: Conduct detail optometry workup for all OPD, EHC & IPD patients.\n- :check: Conduct OPD Procedures like Perimetry, OCT, Topography, IOL Master, Fundus Camera, FFA, A-Scan, B-Scan, Pachymetry, Specular microscopy.\n- :check: Follow standard operating procedures including obtaining consent form, counselling the patient and safety checklist during all procedures/tests.\n- :check: Support in transferring and positioning of the patient in OT on need basis.\n\n### :pencil: Requirements\n\n- :check: **Skills:** Clinical assessment, Prescription writing, Ocular health evaluation, Contact lens fitting, Visual acuity testing, Patient communication, Eye examination, Optical dispensing.\n- :check: **Candidate Requirement:** Graduation or PG in Optometry, Basic computer and typing skills, Excellent verbal and written communication skills."
+    "description": "## Job Description\n\n**Candidate Requirement:** Graduation or PG in Optometry, Basic computer and typing skills, Excellent verbal and written communication skills.\n\n**Job Profile:** Responsible for upkeep & calibration of all department equipment. Liaise with Biomedical Engineer for smooth functioning of equipment. Report damage to instruments/equipment and follow up for replacement. Assist/perform procedures or tests as per qualifications. Conduct detailed optometry workup for all OPD, EHC & IPD patients. Conduct OPD Procedures including Perimetry, OCT, Topography, IOL Master, Fundus Camera, FFA, A-Scan, B-Scan, Pachymetry, Specular microscopy. Follow standard operating procedures, including obtaining consent forms, counselling, and safety checklists. Support in transferring and positioning patients in OT on need basis.\n\n**Skills:** Clinical assessment, Prescription writing, Ocular health evaluation, Contact lens fitting, Visual acuity testing, Patient communication, Eye examination, Optical dispensing."
   },
   {
     "id": "12",
@@ -137,11 +118,9 @@
     "company": "Lenskart.com",
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
     "location": "Narnaul, Haryana, India",
-    "type": "Full-time, Entry level",
-    "posted": "2025-11-13T12:00:00Z",
-    "postedBy": "Admin",
+    "type": "Full-time",
     "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-delhi-new-delhi-hub-at-lenskart-com-4278061780?position=12&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=dctU%2Bdw1PMHw12cKMW3yrw%3D%3D",
-    "description": "## :scroll: Job Description\n\n> The role of an Optometrist at Lenskart is unique and includes **sales as a critical deliverable** alongside delivering technical expertise through eye-checks, dispensing, and diagnosis.\n\n### :briefcase: Responsibilities\n\n- :check: **Customer focus:** Driving Net Promoter Score, greeting walk-in customers and promoting the free eye check-up.\n- :check: **In-store tasks:** Involvement in stocktakes, maintaining sales floor standards, understanding the POS system, and resolving customer concerns.\n- :check: **Eye check-up & dispensing:** Following the 12-step Optometry process, clearly sharing the prescription, educating the customer about single vision and progressive lenses, and performing a quality check of the fitted lenses.\n- :check: **Product recommendation:** Presenting an optimal selection of products based on preferences and understanding unstated customer needs to pitch recommended solutions.\n- :check: **Sales & SOP adherence:** Achieving assigned targets for sales, eye-test conversion, and returns; coordinating product pick-up; and controlling the return percentage.\n- :check: **Store upkeep & maintenance:** Maintaining the store as per Lenskart standards, ensuring security of equipment, and cleaning frames and equipment regularly.\n\n### :pencil: Personal attributes & competencies\n\n- :check: **Minimum qualification:** Diploma in Optometry.\n- :check: Ability to build rapport, understand unstated customer needs, clear communication, active listening, adaptability, proactive task ownership, result-orientation, and ability to multitask."
+    "description": "## About The Role\n\nThe Optometrist role at Lenskart is dual, combining technical expertise (eye-checks, dispensing, diagnosis) with sales as a critical deliverable. The goal is to deliver an exceptional customer experience.\n\n**Responsibilities:**\n*   **Customer focus:** Drive Net Promoter Score; greet and welcome walk-in customers and guide them toward the free eye check-up clinic.\n*   Involve in stocktakes, maintain sales floor standards, and execute day-to-day tasks.\n*   Understand the POS system for effective transaction processing.\n*   Dedicated to customer satisfaction and resolving concerns.\n*   **Eye check-up & dispensing:** Follow the 12-step Optometry process. Share the prescription clearly, educate the customer about single vision/progressive lenses, and recommend appropriate lenses/frames. Perform quality check of fitted lenses before handover.\n*   **Product recommendation:** Present an optimal selection of products based on customer preferences. Understand unstated needs and pitch recommended solutions at the right time.\n*   **Achieving sales Vs. Plan & SOP adherence:** Achieve targets for sales, eye-test conversion, and returns; follow all SOPs. Coordinate product pick-up and resolve returns issues.\n*   **Store upkeep & maintenance:** Maintain the store as per Lenskart standards, clean equipment, ensure no deviation from SOP, and ensure security of equipment and stock.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry. Attributes include ability to build rapport, understand unstated needs, clear communication, active listening, adaptability, proactive task ownership, result-orientation, customer-orientation, and multitasking."
   },
   {
     "id": "13",
@@ -149,11 +128,9 @@
     "company": "Reliance Retail",
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM_iN30Rgv3w/company-logo_100_100/company-logo_100_100/0/1631307312115?e=2147483647&v=beta&t=0aVIacsATufIRcJR18WUij7uuBU9_zV-BYTJclL5lak",
     "location": "Dharwad, Karnataka, India",
-    "type": "Full-time, Mid-Senior level",
-    "posted": "2025-11-13T12:00:00Z",
-    "postedBy": "Admin",
+    "type": "Full-time",
     "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-hubli-karnataka-at-reliance-retail-4256539170?position=13&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=E79PO38cyJA2Ewpas9aQ6g%3D%3D",
-    "description": "## :scroll: Job Description\n> Role: Optometrist\n\n### :briefcase: Job Details\n\n- :check: **Job Description - Dispenses and Fits Accurate Prescriptions**: Dispenses accurate prescriptions and fits spectacles, contact lenses and other optical aids.\n- :check: **Refraction, diagnosis and Customer Consultation**: Perform refraction and diagnosis to meet customers needs. Give advice to patients on: lens types, frames and styling; fit contact lenses and care; use of low vision aids, adjustments and repairs to spectacles.\n- :check: **Inventory Management**: Manage inventory of lenses and range of optical products and give inputs on orders of the same.\n- :check: **Reporting**: Provide regularly, necessary qualitative and quantitative reports to management on sales and stock as well as feedback on customers for their preferences etc. to facilitate decision making.\n- :check: **Quality Control and Consultant**: Ensures quality of eye measurements. Regularly audits fitments and dispensing techniques of Opticians and maintains reports. This role is the point of escalation for Opticians for cases which require higher consultation.\n\n### :pencil: Requirements\n\n- :check: **Education Required:** D. Optom / B Optom\n- :check: **Experience Required:** 0-10 Yrs\n- :check: **Required Skills & Competencies:** Welcome the customer appropriately, talk about Vision Express, tell customer about Vx- 6 step Eye test which he can undergo for free of cost, advise customer on what suits and benefits them based on their need, ensure that delivery is on time and after sales service is prompt, ensure that back-end processes happen as per schedule, escalate any unsorted issues/disputes to SM if required."
+    "description": "## Job Description\n\n**Role:** Optometrist\n\n**Job Description:** Dispenses accurate prescriptions and fits spectacles, contact lenses and other optical aids. Performs refraction and diagnosis to meet customers needs, providing advice on lens types, frames, styling, contact lenses, care, use of low vision aids, adjustments, and repairs to spectacles. Manages inventory of lenses and optical products, giving inputs on orders. Provides regular qualitative and quantitative reports to management on sales and stock, and customer feedback. Ensures quality of eye measurements and regularly audits fitments and dispensing techniques of Opticians; acts as the point of escalation for Opticians for higher consultation.\n\n**Education Required:** D. Optom / B Optom\n\n**Experience Required:** 0-10 Yrs\n\n**Required Skills & Competencies:** Welcome the customer appropriately, talk about Vision Express products/services, tell the customer about the Vx- 6 step Eye test (free of cost), advise customer on what suits and benefits them, ensure timely delivery and prompt after-sales service, ensure back-end processes happen as per schedule, and escalate unsorted issues/disputes to the Store Manager (SM) if required."
   },
   {
     "id": "14",
@@ -161,11 +138,9 @@
     "company": "Spandana Heart and Super Speciality Hospital",
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFKuOmsm1cklg/company-logo_100_100/company-logo_100_100/0/1708685747859?e=2147483647&v=beta&t=WsC32C5_jYKPdNNp8qbGOWzxL3kIbZWbb5iUB9GNLi4",
     "location": "Bengaluru, Karnataka, India",
-    "type": "Part-time, Associate",
-    "posted": "2025-11-13T12:00:00Z",
-    "postedBy": "Admin",
+    "type": "Part-time",
     "applyUrl": "https://in.linkedin.com/jobs/view/optician-at-spandana-heart-and-super-speciality-hospital-4289467647?position=14&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=IiQdHt%2B48zdX4YzxdM0tjg%3D%3D",
-    "description": "## :scroll: Job Description\n\n> Spandana Hospital is seeking a **Junior Optician** to join their team in Bangalore, offering both full-time and part-time employment opportunities. This position is ideal for those with 1 to 3 years of experience in opticianry.\n\n### :briefcase: Roles And Responsibilities\n\n- :check: Assist patients in selecting the right eyewear based on their prescriptions and preferences.\n- :check: Fit and adjust the frames to ensure maximum comfort and adherence to visual prescriptions.\n- :check: Perform lens insertion and adjustments to provide optimal visual clarity.\n- :check: Conduct repairs and maintenance of eyewear.\n- :check: Manage and organize inventory.\n- :check: Educate patients on proper eyewear care and usage techniques.\n- :check: Collaborate with medical staff to provide comprehensive eye care solutions.\n- :check: Maintain records of patient interactions and eyewear sales.\n\n### :pencil: Qualifications And Skills\n\n- :check: **Mandatory Skills:** Proficiency in eyewear repairs, expertise in lens fitting, and skilled in prescription interpretation.\n- :check: **Other Skills:** Strong inventory management skills, experience in frame adjustment, comprehensive product knowledge, excellent communication skills, and attention to detail."
+    "description": "## Job Overview\n\nSpandana Hospital is seeking a Junior Optician to join the team in Bangalore, with opportunities for both full-time and part-time employment.\n\n**Qualifications And Skills:** Proficiency in eyewear repairs (Mandatory), expertise in lens fitting (Mandatory), skilled in prescription interpretation (Mandatory), strong inventory management skills, experience in frame adjustment, comprehensive product knowledge, excellent communication skills, and attention to detail.\n\n**Roles And Responsibilities:** Assist patients in selecting the right eyewear based on prescriptions and preferences. Fit and adjust frames for comfort and visual adherence. Perform lens insertion and adjustments. Conduct repairs and maintenance of eyewear. Manage and organize inventory. Educate patients on proper eyewear care. Collaborate with medical staff for comprehensive eye care. Maintain records of patient interactions and sales.\n\n**Experience:** 1 to 3 years of experience in opticianry."
   },
   {
     "id": "15",
@@ -173,46 +148,359 @@
     "company": "Reliance Retail",
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM_iN30Rgv3w/company-logo_100_100/company-logo_100_100/0/1631307312115?e=2147483647&v=beta&t=0aVIacsATufIRcJR18WUij7uuBU9_zV-BYTJclL5lak",
     "location": "Mumbai Metropolitan Region",
-    "type": "Full-time, Mid-Senior level",
-    "posted": "2025-11-13T12:00:00Z",
-    "postedBy": "Admin",
+    "type": "Full-time",
     "applyUrl": "https://in.linkedin.com/jobs/view/regional-trainer-i-optometry-trainer-mumbai-at-reliance-retail-4247917431?position=15&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=mzu3QXTZHk8evuz%2Fd%2Fxj5g%3D%3D",
-    "description": "## :scroll: Job Summary\n\n> The Optometry Regional Trainer (Field Trainer) is responsible for delivering hands-on training and development programs to employees in the field, ensuring team members have necessary skills and knowledge.\n\n### :briefcase: Key Responsibilities\n\n**1. Training Delivery:**\n\n- :check: Deliver engaging in-field training sessions, workshops, and one-on-one coaching.\n- :check: Conduct structured training programs on **refraction, dispensing techniques, and optical technical processes**.\n- :check: Train retail staff on the fundamentals of lenses, frames, and prescription interpretation.\n- :check: Facilitate hands-on workshops, role-plays, and real-time case studies.\n\n**2. Customer Experience Training:**\n\n- :check: Educate staff on delivering an exceptional customer journey.\n- :check: Conduct training on effective communication, personalized consultations, and handling customer queries.\n- :check: Teach best practices for conducting eye tests with accuracy and efficiency.\n\n**3. Performance Monitoring & Feedback:**\n\n- :check: Regularly visit retail stores to assess training effectiveness and staff performance.\n- :check: Conduct mock sessions and quality audits.\n- :check: Provide timely feedback and develop assessments to measure knowledge retention.\n\n**4. Content Development & Upgradation:**\n\n- :check: Design and maintain training modules, presentations, and manuals.\n- :check: Stay updated with the latest industry trends and create engaging materials.\n\n### :pencil: Qualifications & Skills\n\n- :check: **Qualifications:** Preferably Bachelor's/master's in optometry.\n- :check: **Skills:** Strong presentation and communication skills, ability to adapt training methods, excellent organizational skills, and proficiency in Microsoft Office/e-learning platforms.\n- :check: **Requirement:** Willingness to travel extensively."
+    "description": "## Job Summary: Optometry Regional Trainer\n\nThe Field Trainer is responsible for delivering hands-on training and development programs to employees in the field to equip them with necessary skills and knowledge.\n\n**Key Responsibilities:**\n*   **Training Delivery:** Deliver engaging in-field training sessions, workshops, and one-on-one coaching. Conduct structured programs on refraction, dispensing techniques, and optical technical processes. Train retail staff on fundamentals of lenses, frames, and prescription interpretation. Facilitate workshops, role-plays, and incorporate innovative team-building activities.\n*   **Customer Experience Training:** Educate staff on delivering an exceptional customer journey and conduct training on effective communication, consultations, and accurate eye tests. Ensure compliance with company policies.\n*   **Performance Monitoring & Feedback:** Regularly visit retail stores to assess training effectiveness and staff performance. Conduct mock sessions and quality audits; provide timely feedback and actionable insights. Develop assessments to measure knowledge retention.\n*   **Content Development & Upgradation:** Design and maintain training modules, presentations, and manuals based on evolving needs. Stay updated with industry trends.\n*   **Continuous Improvement:** Gather trainee feedback, identify skill gaps, and customize programs. Foster a learning culture and travel as needed.\n\n**Qualifications & Skills:** Preferably Bachelor's/Master's in Optometry. Strong presentation, communication, organizational, and time-management skills. Proficiency in Microsoft Office and e-learning platforms. Willingness to travel extensively."
   },
   {
     "id": "16",
-    "title": "Optometrist (Optical Sales & Clinical Care)",
-    "company": "Kauvery Hospital",
-    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFr3ZmYygQPPQ/company-logo_100_100/B4DZpc1i0jGwAQ-/0/1762494133241/kauveryhospitalgroup_logo?e=2147483647&v=beta&t=vqf_tpF2sKirZbiUxIYY73-XCLEaMuDShZzqsNja68I",
-    "location": "Srirangam, Tamil Nadu, India",
-    "type": "Full-time, Entry level",
-    "posted": "2025-11-13T12:00:00Z",
-    "postedBy": "Admin",
-    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-optical-sales-clinical-care-at-kauvery-hospital-4333533595?position=3&pageNum=7&refId=sdBeRx2VfhtJTByPkL23VA%3D%3D&trackingId=SYC61Mlu%2FZyBDhMeq7ArdQ%3D%3D",
-    "description": "Responsibilities:\\n\\nConduct comprehensive eye examinations and vision tests for patients. Diagnose visual problems and prescribe corrective lenses (spectacles/contact lenses). Provide expert advice on lens types, frames, and optical products to customers. Assist in optical sales and ensure excellent customer service within the optical store. Maintain accurate patient records and prescriptions. Collaborate with ophthalmologists and hospital staff to ensure high-quality patient care. Ensure proper hygiene and maintenance of optical equipment.\\n\\nQualifications:\\n\\nBachelor’s or Diploma in Optometry (recognized institution). Registered with the relevant Optometry Council. 1–3 years of experience in hospital or optical retail preferred. Strong communication and sales skills. Show more"
+    "title": "Optometrist - Vadodara (Gujarat)",
+    "company": "Reliance Retail",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM_iN30Rgv3w/company-logo_100_100/company-logo_100_100/0/1631307312115?e=2147483647&v=beta&t=0aVIacsATufIRcJR18WUij7uuBU9_zV-BYTJclL5lak",
+    "location": "Vadodara, Gujarat, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-vadodara-gujarat-at-reliance-retail-4292498334?position=16&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=IbptaCwmgns8SAgZ%2BG8Ikw%3D%3D",
+    "description": "## Job Description\n\n**Role:** Optometrist\n\n**Job Description:** Dispenses accurate prescriptions and fits spectacles, contact lenses and other optical aids. Performs refraction and diagnosis to meet customers needs, providing advice on lens types, frames, styling, contact lenses, care, use of low vision aids, adjustments, and repairs to spectacles. Manages inventory of lenses and optical products, giving inputs on orders. Provides regular qualitative and quantitative reports to management on sales and stock, and customer feedback. Ensures quality of eye measurements and regularly audits fitments and dispensing techniques of Opticians; acts as the point of escalation for Opticians for higher consultation.\n\n**Education Required:** D. Optom / B Optom / M Optom\n\n**Experience Required:** 0-6 Yrs\n\n**Required Skills & Competencies:** Welcome the customer appropriately, talk about Vision Express products/services, tell the customer about the Vx- 6 step Eye test (free of cost), advise customer on what suits and benefits them, ensure timely delivery and prompt after-sales service, ensure back-end processes happen as per schedule, and escalate unsorted issues/disputes to the Store Manager (SM) if required."
   },
   {
     "id": "17",
     "title": "Optometrist",
-    "company": "Refining Skills",
-    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFe3Jh4YfhTsQ/company-logo_100_100/B56ZdOZgrcG0AQ-/0/1749367001111/refiningskills_logo?e=2147483647&v=beta&t=6FFN02WN480_ewoyZ0zzUEsdlqonbNgOigPBMdi5FZQ",
-    "location": "Bangalore Rural, Karnataka, India",
-    "type": "Full-time, Associate",
-    "posted": "2025-11-13T12:00:00Z",
-    "postedBy": "Admin",
-    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-at-refining-skills-4234319567?position=6&pageNum=7&refId=sdBeRx2VfhtJTByPkL23VA%3D%3D&trackingId=QwCWIhs5fgBHN9vms2iowQ%3D%3D",
-    "description": "Location: Muddenahalli, Chikkaballapur, Karnataka\\n\\nExperience: Minimum 2 years in a **hospital, vision center, or clinical eye care setting**\\n\\nQualification: Bachelors or Masters in Optometry\\n\\nEmployment Type: Full-time | 6-day workweek\\n\\nWhy Join Us?\\n\\nAt SMSIMSR, vision care is an integral part of our approach to comprehensive and preventive healthcare. As an Optometrist, you will work alongside ophthalmologists and primary care providers to deliver diagnostic, therapeutic, and preventive eye care to patients across all age groups. This role requires strong clinical knowledge and excellent patient interaction skills.\\n\\nKey Responsibilities\\n\\nConduct vision tests, refraction, and prescribe corrective lenses. Diagnose common eye conditions like myopia, hyperopia, astigmatism, and presbyopia. Assist ophthalmologists in pre- and post-operative care, as well as screening for diseases like glaucoma or cataracts. Counsel patients on eye care, visual hygiene, contact lens use, and spectacle maintenance. Interpret diagnostic results from retinoscopy, tonometry, slit-lamp, and visual field tests. Maintain detailed patient records and documentation. Participate in community outreach eye screening camps as required. Recommend further referral to ophthalmologists for advanced medical or surgical management. Show more"
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Kollam, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-at-lenskart-com-4162594008?position=17&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=STgRBlrCMxyxPi%2BAymGBZQ%3D%3D",
+    "description": "## Eligibility\n\n**Minimum qualification:** Bachelor’s or Diploma in Optometry or Ophthalmic Assistance.\n\n**Dispensing Optician role:** Candidate must have completed a vision screening course for a minimum of 2 years."
   },
   {
     "id": "18",
-    "title": "Optometerist",
-    "company": "Eye-Q Vision Pvt Ltd",
-    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPzun6TH3X3w/company-logo_100_100/B4EZoq_i7xGYAU-/0/1761657893132/eye_q_hospitals_logo?e=2147483647&v=beta&t=7sqxFscjQxuV0Y681LBgDcPp8kRTpfBOKHh1CIM1LMo",
-    "location": "Hisar, Haryana, India",
-    "type": "Full-time, Executive",
-    "posted": "2025-11-13T12:00:00Z",
-    "postedBy": "Admin",
-    "applyUrl": "https://in.linkedin.com/jobs/view/optometerist-at-eye-q-vision-pvt-ltd-4322593187?position=10&pageNum=7&refId=sdBeRx2VfhtJTByPkL23VA%3D%3D&trackingId=54a3pBaRLNk%2BPVKc9HWHkQ%3D%3D",
-    "description": "Objective:\\n\\nAn Optometrist may perform an eye exam and write a prescription for corrective lenses, while an optician may fill that prescription.\\n\\nThe Optometrist plays a critical role in delivering high-quality eye care by conducting comprehensive eye examinations and providing personalized treatment recommendations. This position emphasizes patient-centered care, clinical accuracy, and professional judgment.\\n\\nResponsibilities:\\n\\nConduct comprehensive eye examinations including AR, NCT, refraction, vision assessment, and dilation. Clearly explain examination procedures and findings to patients in a professional and empathetic manner. Establish and maintain positive patient rapport throughout the visit. Accurately document and update patient medical history and clinical data. Provide evidence-based treatment recommendations, including prescriptions for spectacles, contact lenses, or referrals for surgery. Ensure consistent delivery of high-quality, patient-focused care through meticulous clinical practices.\\n\\nRequirements:\\n\\nStrong communication and clinical skills with a patient-first approach. Proven ability to work collaboratively within a healthcare team. Confidence and proficiency in operating complex eye care diagnostic equipment. Commitment to ethical practice, integrity, discipline, and adherence to corporate norms. Show more"
+    "title": "Cluster Optometrist - RON 1",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Dehradun, Uttarakhand, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-ron-1-at-lenskart-com-4266246931?position=18&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=C%2F%2FE8CiTVMrkD6A1mJhjLg%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role at Lenskart is a blend of optometry and optical retail. The role involves upskilling front-end retail staff on professional optometry grounds and delivering the best customer experience by driving key business metrics with an optometric approach. Key deliverable is maintaining eye test quality and dispensing standards.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores in uniform.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists, helping with Sales Pitch, Technical Dispensing Guidance, Troubleshooting, and Customer Query Handling. Must also work as a store optometrist during busy hours/high sale days or to cover shifts, checking eye tests, QC drawers, CL expiry, merchandise, Instrument calibration, etc.. Ensure Store Net Promoter Score (NPS) is achieved through training, troubleshooting, and tracking detractors.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective Area Operations Managers (AOMs).\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs (eye test, quality check, dispensing, contact lens, troubleshoot, deliver) to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist to support the store team.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n*   **Team Work:** Work as a member of the Business Team and participate in regional/departmental meetings.\n*   **Documentation:** Maintain documentation and Report daily to the PS regional manager on store visit summary.\n\n**Working Hours:** Same as store shift, and must work on weekends/public holidays.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Good knowledge in Optometry, Refraction, Eyewear Products, Dispensing, and Measurements. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, good understanding of market/product analysis, and leadership qualities (lead by example, coaching, motivating)."
+  },
+  {
+    "id": "19",
+    "title": "Cluster Optometrist",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Goa, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-at-lenskart-com-4239368062?position=19&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=yCArN3LoeRYJ%2B6ywlLpkTw%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role at Lenskart is a combination of optometry and optical retail, focusing on upskilling front-end retail staff on professional optometry grounds. Responsibilities include delivering the best customer experience and maintaining eye test quality and dispensing standards.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores in uniform.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists, helping with Sales Pitch, Technical Dispensing Guidance, Troubleshooting, and Customer Query Handling. Must also work as a store optometrist during busy hours/high sale days or to cover shifts, checking eye tests, QC drawers, CL expiry, merchandise, Instrument calibration, etc.. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs (eye test, quality check, dispensing, contact lens, troubleshoot, deliver) to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist to support the store team.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n*   **Team Work:** Work as a member of the Business Team and participate in regional/departmental meetings.\n*   **Documentation:** Maintain documentation and Report daily to the PS regional manager on store visit summary.\n\n**Working Hours:** Same as store shift, and must work on weekends/public holidays.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Good knowledge in Optometry, Refraction, Eyewear Products, Dispensing, and Measurements. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, and leadership qualities."
+  },
+  {
+    "id": "20",
+    "title": "Optometrist - Salem & Coimbatore",
+    "company": "Reliance Retail",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM_iN30Rgv3w/company-logo_100_100/company-logo_100_100/0/1631307312115?e=2147483647&v=beta&t=0aVIacsATufIRcJR18WUij7uuBU9_zV-BYTJclL5lak",
+    "location": "Salem, Tamil Nadu, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-salem-coimbatore-at-reliance-retail-4277387468?position=20&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=sg%2B8JbdiasC9Jp5iVv%2F%2F1g%3D%3D",
+    "description": "## Job Description\n\n**Role:** Optometrist\n\n**Job Description:** Dispenses accurate prescriptions and fits spectacles, contact lenses and other optical aids. Performs refraction and diagnosis to meet customers needs, providing advice on lens types, frames, styling, contact lenses, care, use of low vision aids, adjustments, and repairs to spectacles. Manages inventory of lenses and optical products, giving inputs on orders. Provides regular qualitative and quantitative reports to management on sales and stock, and customer feedback. Ensures quality of eye measurements and regularly audits fitments and dispensing techniques of Opticians; acts as the point of escalation for Opticians for higher consultation.\n\n**Education Required:** D. Optom / B Optom / M Optom\n\n**Experience Required:** 0-6 Yrs (Freshers also can apply).\n\n**Required Skills & Competencies:** Welcome the customer appropriately, talk about Vision Express products/services, tell the customer about the Vx- 6 step Eye test (free of cost), advise customer on what suits and benefits them, ensure timely delivery and prompt after-sales service, ensure back-end processes happen as per schedule, and escalate unsorted issues/disputes to the Store Manager (SM) if required."
+  },
+  {
+    "id": "21",
+    "title": "Cluster Optometrist - RON 1",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Haryana, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-ron-1-at-lenskart-com-4266246932?position=21&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=7OcCJD1MsInuECneCPrtqg%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role at Lenskart is a blend of optometry and optical retail, focusing on upskilling front-end retail staff on professional optometry grounds. Responsibilities include delivering the best customer experience and maintaining eye test quality and dispensing standards.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores in uniform.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists, helping with Sales Pitch, Technical Dispensing Guidance, Troubleshooting, and Customer Query Handling. Must also work as a store optometrist during busy hours/high sale days or to cover shifts. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs (eye test, quality check, dispensing, contact lens, troubleshoot, deliver) to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n*   **Team Work:** Work as a member of the Business Team and participate in regional/departmental meetings.\n*   **Documentation:** Maintain documentation and Report daily to the PS regional manager.\n\n**Working Hours:** Same as store shift, and must work on weekends/public holidays.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Good knowledge in Optometry, Refraction, Eyewear Products, Dispensing, and Measurements. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, good understanding of market/product analysis, and leadership qualities."
+  },
+  {
+    "id": "22",
+    "title": "Tele Optom - Uttar Pradesh - Lucknow",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Lucknow, Uttar Pradesh, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/tele-optom-uttar-pradesh-lucknow-at-lenskart-com-4334037356?position=22&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=8aYzNQj2iJa4LfFLlMhSjw%3D%3D",
+    "description": "## About The Role: Tele Optometry Or Remote Optometry\n\nTele-optometry involves assessing a customer's ocular health via telecommunication technology. This role delivers live vision care and ocular services remotely, supported by an in-store technician and team. The focus is testing customer vision, ensuring correction efficacy, and completing eye testing to recommend prescriptions/frames/lenses. This is an in-office, full-time job (minimum 9 hours of work for 6 days).\n\n**Responsibilities:**\n*   Establish remote connect with customers to understand visual challenges and needs.\n*   Conduct remote eye tests with protocol and accepted standards.\n*   Complete remote eye testing and provide education on recommended visual aids.\n*   Assist with screening eye conditions and making referrals when possible.\n*   Explain benefits of corrective aids and how they improve eye health.\n*   Advise customer upon the next scheduled eye test date (suggested 6 months period).\n*   Update customer power in systems and navigate customer to download Digital Prescription via Lenskart App.\n*   Track and maintain required eye test quantum, eye to buy conversions, and eye test quality metrics.\n\n**Requirements:** Diploma/Degree/Master in Optometry. Technical Proficiencies (basic computer, MS windows), excellent communication and interpersonal skills, ability to form relationships, demonstrated knowledge of various optometry equipment, and strong problem-solving skills."
+  },
+  {
+    "id": "23",
+    "title": "Tele-Optometrist (Remote – Night Shift, India)",
+    "company": "Snapscale",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF4KixtOvMsTA/company-logo_100_100/company-logo_100_100/0/1737028271787/bbc_global_logo?e=2147483647&v=beta&t=qC7OlCLOmjEPaz-dkpLO8-jro4rTYvE-yWK4r-rgDO0",
+    "location": "Greater Kolkata Area",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/tele-optometrist-remote-%E2%80%93-night-shift-india-at-snapscale-4333141893?position=23&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=PuL%2FHYv7b%2FhV7hpFnu76ZQ%3D%3D",
+    "description": "## About the Role\n\nThis Tele-Optometrist role supports U.S.-based brick-and-mortar clinics via secure telehealth platforms. The candidate will perform accurate refractions, guide patients through vision assessments, and document findings in EMR systems.\n\n**Key Responsibilities:** Conduct comprehensive refractions using digital or manual foropters. Connect remotely to U.S. clinics via secure telehealth systems. Guide patients through vision tests and record results accurately. Communicate clearly with patients and clinic staff. Troubleshoot basic technical issues. Maintain patient privacy, data accuracy, and professional bedside manner.\n\n**Requirements:** Doctor of Optometry (OD) or equivalent degree recognized in India. Minimum 3 years of hands-on clinical optometry or refraction experience. Strong English fluency (spoken and written). Ability to work night shifts aligned with U.S. time zones. Willingness to complete HIPAA and telehealth compliance training. Experience using digital or automated foropters preferred."
+  },
+  {
+    "id": "24",
+    "title": "Cluster Optometrist - RON 1",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Chandigarh, Chandigarh, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-ron-1-at-lenskart-com-4266251609?position=24&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=%2Fo9LdE%2FdfP8uOtRuYNHtBQ%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role is a blend of optometry and optical retail, focusing on upskilling front-end retail staff on professional optometry grounds. Key deliverables include maintaining eye test quality and dispensing standards while driving key business metrics.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists, helping with Sales Pitch, Technical Dispensing Guidance, Troubleshooting, and Customer Query Handling. Must also work as a store optometrist during busy hours/high sale days or to cover shifts. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs (eye test, quality check, dispensing, contact lens, troubleshoot, deliver) to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Good knowledge in Optometry, Refraction, Eyewear Products, Dispensing, and Measurements. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, good understanding of market/product analysis, and leadership qualities."
+  },
+  {
+    "id": "25",
+    "title": "Cluster Optometrist",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Madhya Pradesh, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-at-lenskart-com-4239361457?position=25&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=jAaUcjOKdLitn0UahTaFbw%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role at Lenskart is a blend of optometry and optical retail, focusing on upskilling front-end retail staff on professional optometry grounds. Key deliverables include maintaining eye test quality and dispensing standards while driving key business metrics.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists, helping with Sales Pitch, Technical Dispensing Guidance, Troubleshooting, and Customer Query Handling. Must also work as a store optometrist during busy hours/high sale days or to cover shifts. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs (eye test, quality check, dispensing, contact lens, troubleshoot, deliver) to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, good understanding of market/product analysis, and leadership qualities."
+  },
+  {
+    "id": "26",
+    "title": "Cluster Optometrist- East",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Siliguri, West Bengal, India",
+    "type": null,
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-east-at-lenskart-com-4266657482?position=26&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=%2F7yC%2FJo7eHtIBzlhHw15Mw%3D%3D",
+    "description": null
+  },
+  {
+    "id": "27",
+    "title": "Cluster Optometrist- East",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Assam, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-east-at-lenskart-com-4314022143?position=27&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=pA%2BI%2FuVs719yjL3L%2FANLPA%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role at Lenskart is a blend of optometry and optical retail, focusing on upskilling front-end retail staff on professional optometry grounds. Key deliverables include maintaining eye test quality and dispensing standards while driving key business metrics.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists. Must also work as a store optometrist during busy hours/high sale days or to cover shifts. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, and leadership qualities."
+  },
+  {
+    "id": "28",
+    "title": "Optometrist-Angul- Odisha (FOFO)",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Angul, Odisha, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-angul-odisha-fofo-at-lenskart-com-4314288032?position=28&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=axzqWvl6xEY3WSuYVRuvbA%3D%3D",
+    "description": "## Job Description\n\n**Responsibilities:** Conduct eye exams, assess vision, test visual acuity. Diagnose and treat visual issues like nearsightedness, farsightedness, and astigmatism. Prescribe and fit eyeglasses and contact lenses. Detect eye diseases such as glaucoma and macular degeneration. Provide pre and post-operative care to patients undergoing eye surgery. Stay updated on the latest trends and technologies in optometry. Collaborate with a multidisciplinary team."
+  },
+  {
+    "id": "29",
+    "title": "Cluster Optometrist",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Gujarat, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-at-lenskart-com-4239361455?position=29&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=b8t%2F5OBdO9%2F%2Bgu50uNj6mA%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role at Lenskart is a blend of optometry and optical retail, focusing on upskilling front-end retail staff on professional optometry grounds. Key deliverables include maintaining eye test quality and dispensing standards while driving key business metrics.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists. Must also work as a store optometrist during busy hours/high sale days or to cover shifts. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, and leadership qualities."
+  },
+  {
+    "id": "30",
+    "title": "Cluster Optometrist",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Madhya Pradesh, India",
+    "type": null,
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-at-lenskart-com-4253205510?position=30&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=lSF5E8TIrQUslwEJY2hBTg%3D%3D",
+    "description": null
+  },
+  {
+    "id": "31",
+    "title": "Cluster Optometrist- North",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Delhi Cantonment, Delhi, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-north-at-lenskart-com-4314028047?position=31&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=TNru4tS%2F%2F%2FX0TFqN1SfpvA%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role is a blend of optometry and optical retail, focused on upskilling front-end retail staff on professional optometry grounds. Key deliverables include maintaining eye test quality and dispensing standards while driving key business metrics.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists. Must also work as a store optometrist during busy hours/high sale days or to cover shifts. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, good understanding of market/product analysis, and leadership qualities."
+  },
+  {
+    "id": "32",
+    "title": "Cluster Optometrist- RON",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Agra, Uttar Pradesh, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-ron-at-lenskart-com-4314024148?position=32&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=GwOWbC9XDVjIAhg81wBA5A%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role is a blend of optometry and optical retail, focused on upskilling front-end retail staff on professional optometry grounds. Key deliverables include maintaining eye test quality and dispensing standards while driving key business metrics.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists. Must also work as a store optometrist during busy hours/high sale days or to cover shifts. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, good understanding of market/product analysis, and leadership qualities."
+  },
+  {
+    "id": "33",
+    "title": "Cluster Optometrist- West",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Indore, Madhya Pradesh, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-west-at-lenskart-com-4314019188?position=33&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=2g%2BpTmm2835fixQmGvEAMQ%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role is a blend of optometry and optical retail, focused on upskilling front-end retail staff on professional optometry grounds. Key deliverables include maintaining eye test quality and dispensing standards while driving key business metrics.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists. Must also work as a store optometrist during busy hours/high sale days or to cover shifts. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, good understanding of market/product analysis, and leadership qualities."
+  },
+  {
+    "id": "34",
+    "title": "Cluster Optometrist",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Gujarat, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-at-lenskart-com-4308932006?position=34&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=98MjCmJveWcf5CPrvfj6sw%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role is a blend of optometry and optical retail, focused on upskilling front-end retail staff on professional optometry grounds. Key deliverables include maintaining eye test quality and dispensing standards while driving key business metrics.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists. Must also work as a store optometrist during busy hours/high sale days or to cover shifts. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, good understanding of market/product analysis, and leadership qualities."
+  },
+  {
+    "id": "35",
+    "title": "Cluster Optometrist",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Pune, Maharashtra, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-at-lenskart-com-4253209055?position=35&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=krZnpmxfp1jc6yXn23KNKw%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role is a blend of optometry and optical retail, focused on upskilling front-end retail staff on professional optometry grounds. Key deliverables include maintaining eye test quality and dispensing standards while driving key business metrics.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists. Must also work as a store optometrist during busy hours/high sale days or to cover shifts. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, good understanding of market/product analysis, and leadership qualities."
+  },
+  {
+    "id": "36",
+    "title": "Cluster Optometrist- Mumbai",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Mumbai, Maharashtra, India",
+    "type": null,
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-mumbai-at-lenskart-com-4314030045?position=36&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=%2Bu9BzdETPY4AEaIttVifRA%3D%3D",
+    "description": null
+  },
+  {
+    "id": "37",
+    "title": "Cluster Optometrist",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Kollam, India",
+    "type": null,
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-at-lenskart-com-4253210023?position=37&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=KTL3ucMu2uO0txuu3wCc%2BA%3D%3D",
+    "description": null
+  },
+  {
+    "id": "38",
+    "title": "Optometrist - Bangalore - Karnataka (FOFO)",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-bangalore-karnataka-fofo-at-lenskart-com-4292866345?position=38&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=Sx3FU5FenmfSAL5qfaDVDw%3D%3D",
+    "description": "## Job Description\n\n**Responsibilities:** Conduct eye examinations to evaluate the health and quality of patients' vision. Perform tests for visual acuity, focusing, and coordination. Diagnose sight problems (e.g., nearsightedness, farsightedness) and eye diseases (e.g., glaucoma). Prescribe eyeglasses, contact lenses, and other visual aids. Provide advice on proper eye care techniques. Maintain detailed records of patient information and treatment plans.\n\n**Requirements:** Bachelor's or Doctorate degree in Optometry. Valid license to practice optometry. Strong knowledge of refraction, retinoscopy, and other relevant optometry skills. Excellent communication and interpersonal skills, ability to work well in a team, attention to detail, and strong problem-solving abilities. Only candidates with 0 to 3 years of experience will be considered."
+  },
+  {
+    "id": "39",
+    "title": "Cluster Optometrist",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Mysore, Karnataka, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-at-lenskart-com-4253209076?position=39&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=BqeTIF5pv%2Fq7T1ljFt%2Fx%2BQ%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role at Lenskart is a blend of optometry and optical retail, focusing on upskilling front-end retail staff on professional optometry grounds. Key deliverables include maintaining eye test quality and dispensing standards while driving key business metrics.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists. Must also work as a store optometrist during busy hours/high sale days or to cover shifts. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, and leadership qualities."
+  },
+  {
+    "id": "40",
+    "title": "Optometrist - Uttar Pradesh - Lucknow Hub",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Auraiya, Uttar Pradesh, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-uttar-pradesh-lucknow-hub-at-lenskart-com-4313239156?position=40&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=PYVjIvidSlZaQ4b3L3qgLw%3D%3D",
+    "description": "## About The Role (Optometrist/Sr. Optometrist)\n\nThis role combines eye check-ups with sales as a critical deliverable, focusing on delivering technical expertise through eye-checks, dispensing, and diagnosis.\n\n**Responsibilities:**\n*   **Customer focus:** Drive Net Promoter Score; greet and guide walk-in customers toward the free eye check-up clinic.\n*   Involve in stocktakes, maintain sales floor standards, and execute day-to-day tasks.\n*   Understand the POS system for effective transaction processing and resolve customer concerns.\n*   **Eye check-up & dispensing:** Follow the 12-step Optometry process. Share the prescription clearly, educate the customer about single vision/progressive lenses, and recommend appropriate visual aids. Perform quality check of fitted lenses before handover.\n*   **Product recommendation:** Present an optimal selection of products based on customer preferences and actively pitch recommended solutions.\n*   **Achieving sales Vs. Plan & SOP adherence:** Achieve targets for sales, eye-test conversion, and returns; follow all SOPs. Coordinate product pick-up and resolve returns issues.\n*   **Store upkeep & maintenance:** Maintain the store as per Lenskart standards, clean equipment, and ensure the security of assets.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry. Attributes include ability to build rapport, understand unstated needs, clear communication, adaptability, and Proactive task ownership."
+  },
+  {
+    "id": "41",
+    "title": "Optometry Specialist",
+    "company": "Jaggi Brothers",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHNDfy_aDtQPQ/company-logo_100_100/company-logo_100_100/0/1657084784840?e=2147483647&v=beta&t=1XDxOzfjVPcKTiPnX5l55ecRHwBwUQn7xmZG31AtNCA",
+    "location": "Gurugram, Haryana, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometry-specialist-at-jaggi-brothers-4321707404?position=41&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=A4VaJKXm33Brv80D%2FFPhjQ%3D%3D",
+    "description": "## Role Description: Service Engineer (Optometry Specialist role title used in source)\n\nThis is a full-time, on-site role located in Gurugram for a Service Engineer. The engineer is responsible for troubleshooting, technical support, field service, maintenance, and repair of ophthalmic equipment. Daily tasks include diagnosing problems, conducting repairs, ensuring optimal performance, and maintaining high standards of customer service.\n\n**Qualifications:** Troubleshooting and Technical Support skills, Field Service experience, Strong Communication skills, Maintenance & Repair skills, Customer service orientation, and ability to work independently. Diploma or Bachelor's degree in Engineering or related field. Experience in the ophthalmic or medical device industry is a plus."
+  },
+  {
+    "id": "42",
+    "title": "Optometrist- Silliguri- WB (FOFO)",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Siliguri, West Bengal, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-silliguri-wb-fofo-at-lenskart-com-4314013830?position=42&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=DIzkph7DddrxJ9NgFFtCLQ%3D%3D",
+    "description": "## Job Description\n\n**Responsibilities:** Perform comprehensive eye exams. Prescribe corrective lenses and provide vision therapy. Diagnose and treat eye-related disorders. Monitor patients for systemic conditions affecting the eyes. Stay updated on the latest research and technologies in optometry. Conduct eye examinations to detect vision problems and prescribe visual aids. Diagnose sight problems (e.g., nearsightedness or color blindness) and provide treatment for visual issues and eye diseases. Educate patients on proper eye care techniques.\n\n**Requirements:** Bachelor's degree in Optometry or relevant field. Valid Optometrist license. Good clinical skills, attention to detail, strong communication and interpersonal abilities, and ability to work independently and collaboratively in a team environment."
+  },
+  {
+    "id": "43",
+    "title": "Cluster Optometrist- South 1 APTG",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Telangana, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-south-1-aptg-at-lenskart-com-4314017550?position=43&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=pBipfwhFzYjvNWA2MwE9%2BA%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role is a blend of optometry and optical retail, focused on upskilling front-end retail staff on professional optometry grounds. Key deliverables include maintaining eye test quality and dispensing standards while driving key business metrics.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists. Must also work as a store optometrist during busy hours/high sale days or to cover shifts. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, and leadership qualities."
+  },
+  {
+    "id": "44",
+    "title": "Optometrist - Pune -Baner - Maharashtra (FOFO)",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Pune, Maharashtra, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-pune-baner-maharashtra-fofo-at-lenskart-com-4236920966?position=44&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=dxoC41v%2F1ZRO5XupYTm8bg%3D%3D",
+    "description": "## Job Description\n\n**Eye check-up & dispensing:** Follow the 12-step Optometry process. Share the prescription clearly and educate the customer about lens types (single vision and progressive) while recommending appropriate visual aids. Perform a quality check of fitted lenses before handover.\n\n**Product recommendation:** Present the customer with an optimal selection of products based on preferences. Understand the unstated needs of the customer and pitch recommended solutions.\n\n**Achieving sales Vs. Plan & SOP adherence:** Achieve targets for sales, eye-test conversion, and returns; follow all SOPs. Coordinate product pick-up and resolve returns issues."
+  },
+  {
+    "id": "45",
+    "title": "Cluster Optometrist",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-at-lenskart-com-4253207270?position=45&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=%2Fthb1Y7cqTWt%2BLDiGxvkAQ%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role at Lenskart is a blend of optometry and optical retail, focusing on upskilling front-end retail staff on professional optometry grounds. Key deliverables include maintaining eye test quality and dispensing standards while driving key business metrics.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists. Must also work as a store optometrist during busy hours/high sale days or to cover shifts. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, and leadership qualities."
+  },
+  {
+    "id": "46",
+    "title": "Optometrist - Maharashtra - Nagpur Hub",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Amravati, Maharashtra, India",
+    "type": null,
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-maharashtra-nagpur-hub-at-lenskart-com-4303080176?position=46&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=H3ws88jaNURuFRkrMEXhaA%3D%3D",
+    "description": null
+  },
+  {
+    "id": "47",
+    "title": "Optometrist - Karnataka - Bangalore Hub",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Chikkaballapura, Karnataka, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-karnataka-bangalore-hub-at-lenskart-com-4289295942?position=47&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=9Yrs%2FC0PYHhB9xlhPbNxlg%3D%3D",
+    "description": "## About The Role (Optometrist/Sr. Optometrist)\n\nThis role combines eye check-ups with sales as a critical deliverable, focusing on delivering technical expertise through eye-checks, dispensing, and diagnosis.\n\n**Responsibilities:**\n*   **Customer focus:** Drive Net Promoter Score; greet and guide walk-in customers toward the free eye check-up clinic.\n*   Involve in stocktakes, maintain sales floor standards, and execute day-to-day tasks.\n*   Understand the POS system for effective transaction processing and resolve customer concerns.\n*   **Eye check-up & dispensing:** Follow the 12-step Optometry process. Share the prescription clearly, educate the customer about lens types, and recommend appropriate visual aids. Perform quality check of fitted lenses before handover.\n*   **Product recommendation:** Present an optimal selection of products based on customer preferences and actively pitch recommended solutions.\n*   **Achieving sales Vs. Plan & SOP adherence:** Achieve targets for sales, eye-test conversion, and returns; follow all SOPs. Coordinate product pick-up and resolve returns issues.\n*   **Store upkeep & maintenance:** Maintain the store as per Lenskart standards, clean equipment, and ensure the security of assets.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry. Attributes include ability to build rapport, understand unstated needs, clear communication, adaptability, and Proactive task ownership."
+  },
+  {
+    "id": "48",
+    "title": "Cluster Optometrist",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "New Delhi, Delhi, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/cluster-optometrist-at-lenskart-com-4335633957?position=48&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=Js2Bd5JtZ1syD4PJxeJ9PA%3D%3D",
+    "description": "## About The Role\n\nThe Cluster Optometrist role at Lenskart is a blend of optometry and optical retail. The role focuses on upskilling front-end retail staff on professional optometry grounds and maintaining eye test quality and dispensing standards.\n\n**Responsibilities (Area Activities):**\n*   **Store Visit:** Must visit assigned stores and manage the complete Technical and Functional part of Lenskart stores.\n*   **In Store Duty:** Act as a Mentor and Coach to Fresher Optometrists. Must also work as a store optometrist during busy hours/high sale days or to cover shifts. Ensure Store Net Promoter Score (NPS) is achieved.\n*   **Manpower:** Welcome new talent, conduct interviews, and prepare/conduct meetings with respective AOMs.\n*   **Training:** Undertake regular reviews for new staff, analyze SOPs to measure training impact, and identify/train staff to achieve goals.\n*   **Audit:** Periodically audit eye test and dispensing performance.\n*   **Team Leader:** Serve as Team leader, Bench, Senior, and Consultant Optometrist.\n*   **Revenue:** Maximise In-Store Revenue through continuous training, periodic reviews, increasing eye tests done at store, and reducing returns.\n\n**Personal attributes & competencies:** Minimum qualification is Diploma in Optometry with minimum 3 years of retail experience. Must be ready to travel anywhere in India. Attributes include passion for Sales, Retail, Customer service, and Training, good understanding of market/product analysis, and leadership qualities."
+  },
+  {
+    "id": "49",
+    "title": "Optometrist",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Ottappalam, Kerala, India",
+    "type": "Full-time",
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-at-lenskart-com-4162593073?position=49&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=opsuG8R4u2jb%2BXaZB1Rktg%3D%3D",
+    "description": "## Eligibility\n\n**Minimum qualification:** Bachelor’s or Diploma in Optometry or Ophthalmic Assistance.\n\n**Dispensing Optician role:** Candidate must have completed a vision screening course for a minimum of 2 years."
+  },
+  {
+    "id": "50",
+    "title": "Optometrist",
+    "company": "Lenskart.com",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEkk9hkG6ODLA/company-logo_100_100/company-logo_100_100/0/1699330852755/lenskart_com_logo?e=2147483647&v=beta&t=ocUiDevHN7s9Axrc1EmjSh_8la9YotvX7H3uATvEt-8",
+    "location": "Amla, Madhya Pradesh, India",
+    "type": null,
+    "applyUrl": "https://in.linkedin.com/jobs/view/optometrist-at-lenskart-com-4162588501?position=50&pageNum=0&refId=a3Spc9obmwT2a%2F4fAwORFA%3D%3D&trackingId=y9BnHIbscWEnC1cXLbQOiw%3D%3D",
+    "description": null
   }
 ]
+```
